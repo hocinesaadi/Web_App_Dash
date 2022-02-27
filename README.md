@@ -1,3 +1,3 @@
 # Web Application Dashboards with Dash
 
- ![](\assets\images\Capture.PNG)
+ <img src"assets\images\Capture.PNG">
